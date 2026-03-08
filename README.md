@@ -1,8 +1,25 @@
-# Instagram-openner-
-i made instagram opnner just for fun and i was too lazy to scroll
- Bascilly it like 3 finger open instagram  
- 2 scroll up 
- 1 scroll down
- 4 close instrgram 
- 5 close the project (it have a bug i will fix it later)
- 
+# Instagram Openner
+
+A fun **Instagram automation project** that allows you to control Instagram using simple finger gestures.  
+This project demonstrates basic **computer vision** interaction and **automation** using Python.  
+
+---
+
+## Features
+
+- Open Instagram in your browser automatically  
+- Scroll using finger gestures:  
+  - **3 fingers:** Open Instagram  
+  - **2 fingers:** Scroll up  
+  - **1 finger:** Scroll down  
+  - **4 fingers:** Close Instagram  
+  - **5 fingers:** Close the project (currently has a known bug to be fixed)  
+
+---
+
+## Requirements
+
+Make sure you have the following Python libraries installed:
+
+```bash
+pip install opencv-python mediapipe pyautogui
