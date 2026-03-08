@@ -5,3 +5,4 @@ i made instagram opnner just for fun and i was too lazy to scroll
  1 scroll down
  4 close instrgram 
  5 close the project (it have a bug i will fix it later)
+ 
